@@ -62,11 +62,11 @@ Estimate the market size and growth potential of the EV market for upcoming year
 
 **Data Visualization:**
 
-1. Analysed the historical growth of EV's using Line plot.
+1. Analyzed the historical growth of EV's using Line plot.
 
 2. Forecast the EV registrations for next 5 years using Line plot and Linear Regression Algorithm.
 
-3. Distributionn of vehicle making using Histogram.
+3. Distribution of vehicle making using Histogram.
 
 4. Analyze the distribution of EV registrations across different geographical regions using Maps.
 
